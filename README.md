@@ -9,7 +9,7 @@ Pontuação dos Atletas, é uma aplicação para avaliação de competição de 
 Cada jurado pode fornecer uma nota de um (1) a dez (10);
 A média é calculada com base nas três notas do meio. 
 
-A aplicaçãp deve receber o nome dos atletas, notas e realizar o cálculo da médias desconsiderando a maior e menor nota
+A aplicaçãp deve receber o nome dos atletas, notas e realizar o cálculo da médias desconsiderando a maior e menor nota.
 
 # Tecnologias utilizadas
 
